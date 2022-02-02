@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(220, 227, 241);
+}
+
+.container {
+    /* background-color: rgb(252, 249, 239); */
+    height: 100vh;
+    width: 100vw;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin: 0%;
+    padding-top: 36px;
+    font-family: Audiowide;
+}
+
+h2 {
+    text-align: center;
+    font-size: 27px;
+    font-weight: normal;
+    font-family: Pacifico;
+    margin: 0%;
+}
+
+form {
+   padding-left: 17%;
+   margin: 6%;
+  }
+  
+
+label {
+    font-size: 18px;
+    font-family: Mate SC;
+    width: 50vw;
+}
+
+input[type="text"], select, textarea {
+    font-family: Mate SC;
+    width: 50vw;
+    padding: 9px;
+    margin-top: 3.6px;
+    margin-bottom: 3.6px;
+}
+
+button {
+    font-family: Mate SC;
+    width: 13.9vw;
+    padding: 4.5px;
+    margin-top: 3.6px;
+    margin-bottom: 3.6px;
+}
+
